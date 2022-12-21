@@ -1,4 +1,4 @@
-# Motion Planning of Mbot Mega Robot on Qualcomm RB5 Platform
+# Motion Planning: A search-based motion planning algorithm to intercept a moving target
 
 <p align="justify">
 This project focuses on search-based planning algorithm to solve the problem of intercepting a moving target by feeding the shortest path to the robot. The maps are provided in form of 2D matrices with known initial positions of robot and target along with the obstacle locations. Results shows the success of current algorithm with plots of the paths tracked by both: robot and the target.
@@ -7,7 +7,7 @@ This project focuses on search-based planning algorithm to solve the problem of 
 ## Project Report
 [Orish Jindal, 'A search-based motion planning algorithm to intercept a moving target](https://github.com/ojindal/Motion-Planning-Moving-target/blob/main/Orish%20PR2%20report.pdf)
 
-## The images below represents the final map where the blue and red marks represent the robot and target position respectively, when the catching condition is met. Path travelled by the target is shown in Red and the path travelled by the robot is shown in Blue. Bigger
+The images below represents the final map where the blue and red marks represent the robot and target position respectively, when the catching condition is met. Path travelled by the target is shown in Red and the path travelled by the robot is shown in Blue. Bigger
 blue mark represents the initial position of the robot and the smaller one represents the final position after the catching condition is met. Initial position of target is shown in green, and the final position is shown by red mark as before.
 <p align="center">
   <img src = "https://user-images.githubusercontent.com/89351094/208837683-f4e457ab-1d3a-4318-b63a-65891c27f78a.jpg"/>
